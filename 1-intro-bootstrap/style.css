@@ -2,6 +2,13 @@
     width: 75px;
     height: 75px;
 }
-.titulo{
-    text-align: center;
-}
+.bg-mint{background-color: rgb(168, 246, 207);}
+.bg-dark-mint{background-color: rgb(54, 177, 115);}
+.bg-tomato{background-color: rgb(249, 149, 132);}
+.bg-blue{background-color: rgb(67, 177, 229);}
+
+.fs-0{font-size: 78px;}
+
+.bg-Rosa{background-color: rgb(255, 88, 174);}
+.bg-Moztaza{background-color: rgb(238, 173, 74);}
+.bg-Naranja{background-color: rgb(251, 119, 3);}
